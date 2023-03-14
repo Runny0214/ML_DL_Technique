@@ -1,2 +1,3 @@
-# ML_DL_Technique
-ML_DL_Technique
+# Store Sales Prediction Kaggle Learning
+# 주기성 Time Series Data
+# 
